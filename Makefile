@@ -1,4 +1,4 @@
-OUT_FILE = build/test.elf
+OUT_FILE = build/ac.elf
 ENTRYPOINT = src
 
 OCD = openocd
